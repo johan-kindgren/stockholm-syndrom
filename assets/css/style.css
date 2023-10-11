@@ -49,14 +49,11 @@ ul {
 
 
 
-
-
-
-
-
-
-
 /* footer */
+
+.content {
+    margin-bottom: 100px; 
+}
 
 footer {
     position: fixed;
@@ -66,4 +63,8 @@ footer {
     background-color: rgb(0, 0, 0);
     color: white;
     text-align: center;
+}
+
+  footer i {
+    color: #ffffff
   }
