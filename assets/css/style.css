@@ -1,0 +1,27 @@
+/* html bodey */
+body {
+    background-color: #ffffff;
+    font-family: Arial;
+}
+
+/* nav-bar */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aqua;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
