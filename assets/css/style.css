@@ -72,3 +72,32 @@ footer {
   footer a {
     margin-right: 100px;
   }
+
+  
+  /* signup conntact*/
+  .text-input, #signup-form button {
+    background: transparent;
+    color: #000;
+    width: 15%;
+    height: 20px;
+    margin: 20px auto;
+    border: 1px solid #000;
+    border-radius: 1px;
+    padding: 0 15px;
+    font-size: 16px;
+}
+
+#signup-form {
+    text-align: center;
+}
+
+#signup-form h2 {
+    margin-bottom: 0;
+}
+
+#signup-form button {
+    border-radius: 2px;
+    font-size: 16px;
+    background-color: #000;
+    color: #fff;
+}
