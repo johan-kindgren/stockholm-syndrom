@@ -68,3 +68,7 @@ footer {
   footer i {
     color: #ffffff
   }
+
+  footer a {
+    margin-right: 100px;
+  }
