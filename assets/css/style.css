@@ -45,9 +45,46 @@ ul {
     color: white;
   }
   
+  /* main & text / pic */
 
+  body {
+    text-align: center; 
+}
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
 
+.column {
+    width: 30%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+    .column {
+        width: 50%;
+    }
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+  
 
 /* footer */
 
@@ -73,7 +110,7 @@ footer {
     margin-right: 100px;
   }
 
-  
+
   /* signup conntact*/
   .text-input, #signup-form button {
     background: transparent;

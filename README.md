@@ -4,5 +4,5 @@ I have created a page about the mentioned advice and the Stockholm Syndrome. It 
 
 
 
-pic James Kovin instagram https://unsplash.com/@james2k
+pic James Kovin https://unsplash.com/@james2k
 
