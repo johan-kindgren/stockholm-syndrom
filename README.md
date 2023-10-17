@@ -48,6 +48,6 @@ The text for the Home page was adapted from a Wikipedia article on Stockholm syn
 Instructions on how to implement form validation on the Sign-Up page were inspired by a specific YouTube tutorial.
 Icons in the footer were sourced from Font Awesome.
 ## Media
-The photos used on the home and sign-up pages are from an open-source image repository.
+The photos used on the home and sign-up pages are from James Kovin https://unsplash.com/@james2k, Kenny Eliason https://unsplash.com/@neonbrand, Maxim-Hopman https://unsplash.com/@nampoh. 
 The images used for the gallery page were taken from another open-source site.
 Congratulations on completing the Stockholm Syndrome project, and thank you for visiting our site to learn more about this psychological phenomenon.
