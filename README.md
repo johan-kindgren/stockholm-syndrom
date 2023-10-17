@@ -1,51 +1,58 @@
-# Stockholm Syndrome
-## Stockholm Syndrome 
-is a website that aims to educate visitors about the psychological phenomenon known as Stockholm syndrome. The website provides information about what Stockholm syndrome is, who the key actors in such situations are (robbers, hostages, and police), and the psychological dynamics at play. It also offers a platform for users to learn more and engage with the topic.
+# Stockholm Syndrome Website
 
-# Features
-## Navigation Bar
-Featured on all pages, the responsive navigation bar ensures easy navigation across the site.
-Provides links to the Home page, Stockholm Syndrome info page, and the Contact page.
+## Introduction
+The **Stockholm Syndrome Website** is a platform designed to educate visitors about the psychological phenomenon known as Stockholm syndrome. This README file provides an overview of the website's features, deployment process, and credits.
 
-# Hero Image and Text
-The hero section features an engaging image and a brief description of what Stockholm syndrome is.
-Captures the user's attention and provides a glimpse into the topic.
+## Features
 
-# Information Cards
-Information cards present details about the key characters in Stockholm syndrome situations: robbers, hostages, and police.
-Each card includes a title, a brief description, and a "Read more" button for users to access more information.
+### Navigation Bar
+A responsive navigation bar is featured on all pages, ensuring easy navigation across the site. It provides links to the following key sections:
+- **Home**: The homepage of the website.
+- **Stockholm Syndrome Info**: Detailed information about Stockholm syndrome.
+- **Contact**: A contact page for user inquiries.
 
-# Footer
-The footer section includes links to the organization's social media profiles.
-Allows users to stay connected and informed about updates.
+### Hero Image and Text
+The hero section features a captivating image and a brief description of what Stockholm syndrome is. This section is designed to capture the user's attention and provide a glimpse into the topic.
 
-# Contact Page
-Provides a contact form for users to get in touch with questions or comments.
-Ensures a channel for user interaction and inquiries.
+### Information Cards
+Information cards present details about the key characters involved in Stockholm syndrome situations, including robbers, hostages, and police. Each card includes the following elements:
+- **Title**: A concise title describing the character.
+- **Description**: A brief description of the character's role in Stockholm syndrome situations.
+- **"Read more" Button**: Users can click this button to access more detailed information about the character.
 
-# Sign-Up Form
-Users can sign up to receive updates or newsletters.
-Allows users to specify their preferences for receiving information.
-Collects user names and email addresses for communication purposes.
+### Footer
+The footer section includes links to the organization's social media profiles, allowing users to stay connected and informed about updates and news related to Stockholm syndrome.
 
-# Testing
-The website has undergone rigorous testing to ensure that all features work seamlessly. It has been tested on various browsers and screen sizes to ensure a consistent user experience.
+### Contact Page
+The Contact Page provides a contact form for users to get in touch with questions or comments. This feature ensures a channel for user interaction and inquiries.
 
-HTML: No errors were found when passing through the official W3C validator.
-CSS: No errors were found when passing through the official (Jigsaw) validator.
+### Sign-Up Form
+Users can sign up to receive updates or newsletters related to Stockholm syndrome. This feature allows users to specify their preferences for receiving information and collects user names and email addresses for communication purposes.
 
-# Deployment
+### Testing
+The website has undergone rigorous testing to ensure that all features work seamlessly. It has been tested on various browsers and screen sizes to guarantee a consistent and user-friendly experience. Specifically:
+- **HTML**: No errors were found when passing through the official W3C validator.
+- **CSS**: No errors were found when passing through the official (Jigsaw) validator.
+
+## Deployment
+
 The site has been deployed on GitHub Pages using the following steps:
 
-In the GitHub repository, navigate to the Settings tab.
-From the source section drop-down menu, select the Master Branch.
-Once the master branch has been selected, the page will be automatically refreshed, indicating a successful deployment.
-You can access the live site here.
+1. In the GitHub repository, navigate to the **Settings** tab.
+2. From the source section drop-down menu, select the **Master Branch**.
+3. Once the master branch has been selected, the page will be automatically refreshed, indicating a successful deployment.
 
-# Credits
-## Content
-The text for the Home page was adapted from a Wikipedia article on Stockholm syndrome.
-Instructions on how to implement form validation on the Sign-Up page were inspired by a specific YouTube tutorial.
-Icons in the footer were sourced from Font Awesome.
-## Media
-The photos used on the home and sign-up pages are from James Kovin https://unsplash.com/@james2k, Kenny Eliason https://unsplash.com/@neonbrand, Maxim-Hopman https://unsplash.com/@nampoh. 
+You can access the live site by following this link: [Stockholm Syndrome Website](#https://en.wikipedia.org/wiki/Stockholm_syndrome)
+
+## Credits
+
+### Content
+- The text for the Home page was adapted from a Wikipedia article on Stockholm syndrome.
+- Instructions on how to implement form validation on the Sign-Up page were inspired by a specific YouTube tutorial.
+- Icons in the footer were sourced from Font Awesome.
+
+### Media
+- The photos used on the home and sign-up pages are credited to the following photographers on Unsplash:
+  - James Kovin [@james2k](https://unsplash.com/@james2k)
+  - Kenny Eliason [@neonbrand](https://unsplash.com/@neonbrand)
+  - Maxim-Hopman [@nampoh](https://unsplash.com/@nampoh)
