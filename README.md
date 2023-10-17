@@ -42,7 +42,7 @@ The site has been deployed on GitHub Pages using the following steps:
 2. From the source section drop-down menu, select the **Master Branch**.
 3. Once the master branch has been selected, the page will be automatically refreshed, indicating a successful deployment.
 
-You can access the live site by following this link: [Stockholm Syndrome Website](#https://en.wikipedia.org/wiki/Stockholm_syndrome)
+You can access the live site by following this link: [Stockholm Syndrome Website](https://en.wikipedia.org/wiki/Stockholm_syndrome)
 
 ## Credits
 
