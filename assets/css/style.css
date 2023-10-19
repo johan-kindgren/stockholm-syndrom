@@ -1,10 +1,29 @@
-/* Logo and navigation */
+/* Reset some default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles for body and text */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url("../images/james-kovin-gOJMw_EUlWw-unsplash.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto; 
+    background-attachment: fixed;
+    color: white; 
+}
+
+/* Header styles */
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background-color: #000;
+    background-color: black; 
     color: white;
 }
 
@@ -29,22 +48,22 @@ nav a {
     color: white;
 }
 
-  /* hero image & text */
-  body, html {
+/* Hero section styles */
+body, html {
     height: 100%;
     margin: 0;
-    font-family: arial, monospace, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
   }
-
+  
   .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.37), rgba(0, 0, 0, 0.397)), url("../images/james-kovin-gOJMw_EUlWw-unsplash.jpg");
+    background-image: linear-gradient(rgba(66, 66, 66, 0.479), rgba(0, 0, 0, 0.74)), url("");
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
   }
-
+  
   .hero-text {
     text-align: center;
     position: absolute;
@@ -53,129 +72,143 @@ nav a {
     transform: translate(-50%, -50%);
     color: white;
   }
-
-  /* main & text / pic */
-
-body {
-    text-align: center;
-}
-
-h1 {
-    font-size: 50px;
-    word-break: break-all;
-    text-align: center;
-}
-
-h2 {
-    text-align: center;
-}
-
-.row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.column {
-    width: 30%;
-    margin-bottom: 16px;
-    padding: 0 8px;
-}
-
-@media screen and (max-width: 650px) {
-    .column {
-        width: 50%;
-    }
-}
-
-.card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-.button {
+  
+  .hero-text button {
     border: none;
     outline: 0;
     display: inline-block;
-    padding: 8px;
+    padding: 10px 25px;
+    color: black;
+    background-color: #ddd;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .hero-text button:hover {
+    background-color: #555;
     color: white;
-    background-color: #000;
-    text-align: center;
-    cursor: pointer;
-    width: 100%;
+  }
+
+  .no-bullet {
+    list-style-type: none;
 }
 
-/* Styles for the signup section */
-.signup-section {
-    text-align: center;
-    margin: 20px auto;
-    max-width: 500px;
-}
-
-.signup-section .form-group {
-    margin: 20px 0;
-    text-align: left;
-}
-
-.signup-section .label {
-    font-weight: bold;
-    display: block;
-    margin-bottom: 8px;
-    font-size: 18px;
-}
-
-.signup-section .text-input {
-    width: 100%;
-    padding: 15px;
-    border: 2px solid #000;
-    border-radius: 5px;
-    font-size: 18px;
-    margin-top: 6px;
-}
-
-.signup-section .submit-button {
-    background-color: #000;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    padding: 15px 30px;
-    font-size: 18px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.signup-section .submit-button:hover {
-    background-color: #222;
-}
-
-.signup-section #signup {
-    background-color: #fff;
+/* Main content section styles */
+.main {
     padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-    text-align: center;
+    color: white; 
 }
 
-.signup-section #signup h2 {
+main h1, main h3 {
+    background: rgba(128, 128, 128, 0.5); 
+    display: inline; 
+    padding: 5px; 
+    color: white; 
+}
+
+/* Images and text insida info */
+.container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .container img {vertical-align: middle;}
+  
+  .container .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+
+/* Signup section styles */
+.signup-section {
+    background-color: #f2f2f200;
+    padding: 20px;
+}
+
+.signup-container {
+    max-width: 500px; 
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.signup-container h2 {
+    text-align: center;
     font-size: 24px;
     margin-bottom: 20px;
     color: #333;
 }
 
-/* footer */
-
-.content {
-    margin-bottom: 100px;
+.form-group {
+    margin-bottom: 20px;
 }
 
+#signup-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #000; 
+}
+
+.text-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.submit-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #000000;
+    color: rgb(255, 255, 255); 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #000000;
+}
+
+/* images and text in index */
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+/* Footer styles */
 footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgb(0, 0, 0);
-    color: white;
+    background-color: black; 
+    color: white; 
     text-align: center;
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 footer i {
@@ -183,5 +216,5 @@ footer i {
 }
 
 footer a {
-    margin-right: 100px;
+    margin-right: 20px;
 }

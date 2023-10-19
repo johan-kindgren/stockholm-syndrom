@@ -9,12 +9,12 @@
 </head>
 <body>
     <header>
-        <div class="logo">Stockholm Syndrome</div>
+        <a href="index.html" class="logo" style="color: white; text-decoration: none;">Stockholm Syndrome</a>
         <nav>
             <ul>
-                <li><a href="index.html">home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="info.html">Stockholm syndrome</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.html">Sign Up</a></li>
             </ul>
         </nav>
     </header>
@@ -22,31 +22,29 @@
     <div class="hero-image">
         <div class="hero-text">
             <h1 style="font-size:50px">Stockholm Syndrome</h1>
-            <h2>What is Stockholm syndrome?</h2>
-            <p>Stockholm syndrome is a psychological response to being held captive. People with Stockholm syndrome form a psychological connection with their captors and begin sympathizing with them.</p>
-            <a href="info.html">Read more</a>
         </div>
     </div>
 
     <main>
         <section id="signup" class="signup-section">
-            <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
-                <div class="container">
+            <div class="signup-container">
+                <h2>Sign Up for Updates</h2>
+                <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
                     <div class="form-group">
-                        <label for="firstName">Firstname:</label>
-                        <input type="text" id="FirstName" class="text-input">
+                        <label for="firstName">First Name:</label>
+                        <input type="text" id="firstName" class="text-input" placeholder="John">
                     </div>
                     <div class="form-group">
-                        <label for="lastName">Lastname:</label>
-                        <input type="text" id="Lastname" class="text-input">
+                        <label for="lastName">Last Name:</label>
+                        <input type="text" id="lastName" class="text-input" placeholder="Doe">
                     </div>
                     <div class="form-group">
-                        <label for="email">E-post:</label>
-                        <input type="text" id="Email" class="text-input">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" class="text-input" placeholder="john.doe@example.com">
                     </div>
-                    <button type="submit" class="submit-button">Skicka</button>
-                </div>
-            </form>
+                    <button type="submit" class="submit-button">Sign Up</button>
+                </form>
+            </div>
         </section>
     </main>
 
