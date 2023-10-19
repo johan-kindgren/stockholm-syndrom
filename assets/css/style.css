@@ -122,30 +122,59 @@ footer {
   }
 
 
-  /* signup conntact*/
-  .text-input, #signup-form button {
-    background: transparent;
-    color: #000;
-    width: 15%;
-    height: 20px;
+/* Styles for the signup section */
+.signup-section {
+    text-align: center;
     margin: 20px auto;
-    border: 1px solid #000;
-    border-radius: 1px;
-    padding: 0 15px;
-    font-size: 16px;
+    max-width: 500px;
 }
 
-#signup-form {
+.signup-section .form-group {
+    margin: 20px 0;
+    text-align: left;
+}
+
+.signup-section .label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+
+.signup-section .text-input {
+    width: 100%;
+    padding: 15px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 6px;
+}
+
+.signup-section .submit-button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 30px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.signup-section .submit-button:hover {
+    background-color: #222;
+}
+
+.signup-section #signup {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
 
-#signup-form h2 {
-    margin-bottom: 0;
-}
-
-#signup-form button {
-    border-radius: 2px;
-    font-size: 16px;
-    background-color: #000;
-    color: #fff;
+.signup-section #signup h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
 }

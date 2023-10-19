@@ -1,4 +1,4 @@
-# Stockholm Syndrome Website
+# Stockholm Syndrome 
 
 ## Introduction
 The **Stockholm Syndrome Website** is a platform designed to educate visitors about the psychological phenomenon known as Stockholm syndrome. This README file provides an overview of the website's features, deployment process, and credits.
@@ -6,7 +6,7 @@ The **Stockholm Syndrome Website** is a platform designed to educate visitors ab
 ## Features
 
 ### Navigation Bar
-A responsive navigation bar is featured on all pages, ensuring easy navigation across the site. It provides links to the following key sections:
+The responsive navigation bar was adapted from W3Schools and is featured on all pages, ensuring easy navigation across the site. It provides links to the following key sections:
 - **Home**: The homepage of the website.
 - **Stockholm Syndrome Info**: Detailed information about Stockholm syndrome.
 - **Contact**: A contact page for user inquiries.
@@ -43,10 +43,9 @@ The site has been deployed on GitHub Pages using the following steps:
 3. Once the master branch has been selected, the page will be automatically refreshed, indicating a successful deployment.
 
 You can access the live site by following this link: 
--[Stockholm Syndrome Website](https://en.wikipedia.org/wiki/Stockholm_syndrome)
--[Norrmalmstorg robbery](https://en.wikipedia.org/wiki/Norrmalmstorg_robbery)
--[What Is Stockholm Syndrome? Symptoms, Causes And Treatment](https://www.forbes.com/health/mind/stockholm-syndrome/)
-
+- [Stockholm Syndrome Website](https://example.com/stockholm-syndrome)
+- [Norrmalmstorg robbery](https://example.com/norrmalmstorg-robbery)
+- [What Is Stockholm Syndrome? Symptoms, Causes And Treatment](https://example.com/stockholm-syndrome-treatment)
 
 ## Credits
 
