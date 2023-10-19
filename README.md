@@ -82,11 +82,8 @@ You can explore the live site by clicking on the following links:
   - James Kovin [@james2k](https://unsplash.com/@james2k)
   - Kenny Eliason [@neonbrand](https://unsplash.com/@neonbrand)
   - Maxim-Hopman [@nampoh](https://unsplash.com/@nampoh)
+  - Harrison Haines [Harrison Haines](https://www.pexels.com/sv-se/@harrisonhaines)
+  - Vladimir Uporov [Vladimir Uporov](https://www.pexels.com/@uporovphoto)
+  - Zachary Debottis [Zachary Debottis](https://www.pexels.com/@zachtheshooter)
 
-Additional image credits:
-
-- [Pexels](https://www.pexels.com/)
-
-- [Harrison Haines](https://www.pexels.com/sv-se/@harrisonhaines)
-- [Vladimir Uporov](https://www.pexels.com/@uporovphoto)
-- [Zachary Debottis](https://www.pexels.com/@zachtheshooter)
+  - [Pexels](https://www.pexels.com/)
