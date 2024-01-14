@@ -10,14 +10,14 @@
 
 ## Overview
 **Welcome Screen**: Introduces and provides an overview.
-   ![Welcome Screen](./assets/images/hemsida.png)
-
+![Welcome Screen](./assets/images/hemsida.png)
 
 Welcome to the **Stockholm Syndrome Website**, a dedicated platform aimed at providing valuable insights into the psychological phenomenon commonly referred to as Stockholm syndrome. This README offers a comprehensive overview of the website's functionalities, deployment process, and a recognition of the contributions made by various individuals and sources.
 
 ## Key Features
 
 ### User-Friendly Navigation Bar
+![Navigation Bar](./assets/images/navigation-bar.png)
 
 Our website boasts a responsive navigation bar, skillfully adapted from W3Schools, which remains accessible on all pages. This feature guarantees a seamless and intuitive browsing experience. It offers convenient links to essential sections:
 
@@ -26,10 +26,12 @@ Our website boasts a responsive navigation bar, skillfully adapted from W3School
 - **Contact**: A dedicated page for user inquiries.
 
 ### Captivating Hero Section
+![Hero Section](./assets/images/hero-section.png)
 
 The hero section takes center stage with a captivating image and a concise overview of Stockholm syndrome. It serves as an attention-grabbing introduction to the topic.
 
 ### Information Cards
+![Information Cards](./assets/images/information-cards.png)
 
 Information cards delve into the key characters involved in Stockholm syndrome situations, such as robbers, hostages, and police. Each card includes:
 
@@ -38,18 +40,17 @@ Information cards delve into the key characters involved in Stockholm syndrome s
 - **"Read more" Button**: Users can click this button to access detailed character profiles.
 
 ### Engaging Footer
+![Footer](./assets/images/footer.png)
 
 Our footer offers links to our organization's social media profiles, ensuring users can stay updated on news and developments related to Stockholm syndrome.
 
-### Contact Page
-
-The Contact Page is equipped with a user-friendly form, allowing visitors to get in touch with questions or comments. This feature ensures open communication and provides a channel for inquiries.
-
 ### Sign-Up Form
+![Sign-Up Form](./assets/images/sign-up-form.png)
 
 Users can subscribe to receive updates and newsletters about Stockholm syndrome. This feature allows users to customize their information preferences while collecting user names and email addresses for communication purposes.
 
 ### Rigorous Testing
+![Testing](./assets/images/testing.png)
 
 We have subjected our website to comprehensive testing to ensure a smooth and consistent user experience. This includes:
 
