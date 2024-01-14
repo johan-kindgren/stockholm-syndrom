@@ -1,11 +1,3 @@
-<p>
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!"/>
-    </a>
-</p>
-
 # The Stockholm Syndrome Website
 
 ## Overview
@@ -55,6 +47,14 @@ We have subjected our website to comprehensive testing to ensure a smooth and co
 
 - **HTML**: Our website passes the official W3C validator with no errors.
 - **CSS**: It also successfully passes the official (Jigsaw) validator, free from errors.
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!"/>
+    </a>
+</p>
 
 ## Deployment Process
 
