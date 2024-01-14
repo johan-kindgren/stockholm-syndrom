@@ -31,7 +31,6 @@ Our website boasts a responsive navigation bar, skillfully adapted from W3School
 The hero section takes center stage with a captivating image and a concise overview of Stockholm syndrome. It serves as an attention-grabbing introduction to the topic.
 
 ### Information Cards
-![Information Cards](./assets/images/information-cards.png)
 
 Information cards delve into the key characters involved in Stockholm syndrome situations, such as robbers, hostages, and police. Each card includes:
 
