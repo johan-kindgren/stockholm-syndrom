@@ -9,8 +9,10 @@
 # The Stockholm Syndrome Website
 
 ## Overview
-**Welcome Screen**: Introduces the quiz and provides an overview.
-   ![Welcome Screen](./assets/images/bilder hemsida.png)
+**Welcome Screen**: Introduces and provides an overview.
+   ![Welcome Screen](./assets/images/hemsida.png)
+
+
 Welcome to the **Stockholm Syndrome Website**, a dedicated platform aimed at providing valuable insights into the psychological phenomenon commonly referred to as Stockholm syndrome. This README offers a comprehensive overview of the website's functionalities, deployment process, and a recognition of the contributions made by various individuals and sources.
 
 ## Key Features
